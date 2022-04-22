@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+  <entry>
+    <key>base_url</key>
+    <value>https://codecanyon.net/</value>
+  </entry>
+
+  <entry>
+    <key>HideInterstitialAd</key>
+    <value>false</value>
+  </entry>
+
+  <entry>
+    <key>HideBannerAd</key>
+    <value>false</value>
+  </entry>
+
+  <entry>
+    <key>HideNavigationView</key>
+    <value>false</value>
+  </entry>
+
+  <entry>
+    <key>HideToolBar</key>
+    <value>false</value>
+  </entry>
+
+  <entry>
+    <key>ad_unitId_BANNER</key>
+    <value>ca-app-pub-3940256099942544/6300978111</value>
+  </entry>
+
+  <entry>
+    <key>ad_unitId_interstitialAd</key>
+    <value>ca-app-pub-3940256099942544/1033173712</value>
+  </entry>
+
+
+
+  <entry>
+    <key>isToolBarIcons_Lite</key>
+    <value>false</value>
+  </entry>
+
+  <entry>
+    <key>ToolBar_text_color</key>
+    <value>#000000</value>
+  </entry>
+
+  <entry>
+    <key>Enable_Loader</key>
+    <value>true</value>
+  </entry>
+
+  <entry>
+    <key>Loader_style</key>
+    <value>Wave</value>
+  </entry>
+
+  <entry>
+    <key>Loader_color</key>
+    <value>#FFFFFF</value>
+  </entry>
+
+  <entry>
+    <key>Enable_SwipeRefresh</key>
+    <value>true</value>
+  </entry>
+
+
+  <entry>
+    <key>HideAppIntro</key>
+    <value>false</value>
+  </entry>
+
+
+  <entry>
+    <key>AppIntroTextColor</key>
+    <value>#FFFFFF</value>
+  </entry>
+
+  <entry>
+    <key>Is_RTL</key>
+    <value>false</value>
+  </entry>
+
+  <entry>
+    <key>enable_DarkMode</key>
+    <value>true</value>
+  </entry>
+
+  <entry>
+    <key>enable_share</key>
+    <value>true</value>
+  </entry>
+
+  <entry>
+    <key>enable_rate</key>
+    <value>true</value>
+  </entry>
+
+  <entry>
+    <key>enable_contact_us</key>
+    <value>true</value>
+  </entry>
+
+  <entry>
+    <key>enable_camera_permission</key>
+    <value>true</value>
+  </entry>
+
+</defaultsMap>
+    <!-- END xml_defaults -->

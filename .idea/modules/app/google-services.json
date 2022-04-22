@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473623649044",
+    "firebase_url": "https://omanoffers-9acda.firebaseio.com",
+    "project_id": "omanoffers-9acda",
+    "storage_bucket": "omanoffers-9acda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473623649044:android:b2a343b658791150d00001",
+        "android_client_info": {
+          "package_name": "com.khyamey.omanoffers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473623649044-o1v1c9dqevmfr47ptbgpsujn6gd6vv5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khyamey.omanoffers",
+            "certificate_hash": "06a4f7ec9c2187ef771e0fbc8eeb8326aa10adf7"
+          }
+        },
+        {
+          "client_id": "473623649044-itm6fpggohoppfsb9keaea791eh3i8ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwkyrJKSOmAXuHuRSF3aBuMDBjtmR-lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473623649044-itm6fpggohoppfsb9keaea791eh3i8ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

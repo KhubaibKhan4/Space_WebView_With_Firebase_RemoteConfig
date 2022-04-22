@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Daska</string>
+    <string name="please_wait">Please Wait ...</string>
+    <string name="slide_one_title">WELCOME</string>
+    <string name="slide_one_text">Thank you for Checking Daska Industry </string>
+    <string name="slide_two_title">CUSTOMER SERVICE</string>
+    <string name="slide_two_text">Daska Industry understands how important customer service is for our clients. Our irrigation experts are always available to assist you with any of your issues, needs or requests. Even if you’re just looking for some friendly advice, please don’t hesitate to give us a call❤ </string>
+    <string name="slide_three_title">PROFESSIONAL INSTALLATION</string>
+    <string name="slide_three_text">Daska Industry’s custom designs and installs professional, state-of-the-art, underground sprinkler systems. Contact us today for a FREE QUOTE.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="facebook_url">https://web.facebook.com/fountains001/</string>
+
+    // app links
+
+    <string name="website_link">https://daskaind.com//</string>
+    <string name="about_website_link">https://daskaind.com/#about-us/</string>
+    <string name="portfolio_website_link">https://daskaind.com/#portfolio/</string>
+    <string name="market">market://</string>
+    <string name="instagram_url">https://instagram.com/daskaind?igshid=1sworcozlr6tc/</string>
+    <string name="instagram_package">com.instagram.android</string>
+    <string name="data_formate">yyyyMMdd_HHmmss</string>
+    <string name="no_internet_connection">No Internet Connection !</string>
+    <string name="please_click_back">Please click BACK again to exit</string>
+    <string name="choose_one">choose one</string>
+    <string name="contact_us">Contact us</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="log_out">Log out</string>
+    <string name="follow_us">follow_us</string>
+
+</resources>

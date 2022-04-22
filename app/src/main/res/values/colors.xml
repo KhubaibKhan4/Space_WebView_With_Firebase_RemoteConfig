@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#87CEEB</color>
+    <color name="colorPrimary_2">#87CEEB</color>
+    <color name="colorPrimaryDark">#19191b</color>
+    <color name="colorAccent">#34393d</color>
+    <color name="colorWhite">#fff</color>
+    <color name="dark_color">#1a1a1a</color>
+    <color name="black">#000</color>
+    <color name="progress_transparent_color">#59000000</color>
+    <color name="drawer_navigation_color">#FFF</color>
+    <color name="text_color">#000</color>
+    <color name="switchColor">#ED0014</color>
+
+</resources>

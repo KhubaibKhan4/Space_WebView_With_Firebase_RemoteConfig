@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ThemeColor">@color/colorPrimary</color>
+    <string name="your_app_name">Daskaind</string>
+    <string name="short_description">Daska Industrys</string>
+    <string name="long_description">We work with clients at all levels of their organizations, across a wide range of industries and functions. No matter the challenge, we focus on delivering practical and enduring results, and equipping our clients to grow and lead. For every engagement, we assemble a team with the most appropriate experience.</string>
+    <string name="faceBook_url">https://web.facebook.com/fountains001/</string>
+    <string name="instgram_url">https://instagram.com/daskaind?igshid=1sworcozlr6tc/</string>
+    <string name="phone_number">+92 323 3330444</string>
+    <string name="app_version">V1.0.0</string>
+
+    // AdMobs ID
+    <string name="AdMob_app_ID">ca-app-pub-1901373629024926~8043390791</string>
+    // change that by your app id
+
+
+</resources>
